@@ -4,7 +4,7 @@ it's all free, don't worry. Watch the guide for renew the RDP 😉
 
 ### ⚠️⚠️⚠️ - Warning - ⚠️⚠️⚠️
 
-**It is recommended to use a second account to create RDP, because it is very likely that the account will be suspended if you make free RDP from Github. Thank you for your attention :)**
+**Colab RDP is used to get Remote Connection to Google Collaboratory and use it with browser (Not using Client). This gives you a high end VM for a maximum of 12 hours with Debian Linux as OS**
 
 ### Video guide:
 
@@ -12,19 +12,19 @@ soon!
 
 ### Specs
 ```
-> RAM: 7GB (7 Gigabyte)
+> RAM: 12GB (7 Gigabyte)
 
-> SSD: 256GB (256 Gigabyte)
+> SSD: ?
 
-> Processor: Intel(R) Xeon(R) Platinum 8171M
+> Processor: ?
 
-> CPU: 2 Core @ 2.60GHz 2.10 GHz
+> CPU: ?
 
-> OS: Windows Server 2019
+> OS: Debian Linux
 
-> System Type: 64-bit OS, x64-based processor
+> System Type: ?
 
-> Work For 6 Hours
+> Work For 12 Hours
 
 > Unlimited Rebuild
 ```
@@ -50,12 +50,8 @@ soon!
 ```
 ## If Error Showed
 
-Just Download This Whole repository And make new repo in your GitHub account and upload all the files
-
 ## WARNING
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 DON'T USE FOR MINING OR ILLEGAL USE
-
-DON'T RECODE THIS SC!
