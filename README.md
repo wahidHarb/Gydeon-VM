@@ -1,4 +1,4 @@
-# Free RDP 12 HOURS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LyQuid12/Gydeon-VM/blob/dev/Colab%20RDP/Colab%20RDP.ipynb)
+# Free RDP 12 HOURS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LyQuid12/Gydeon-VM/blob/dev/Colab%20RDP/Gydeon%20VM.ipynb)
 
 **Colab RDP is used to get Remote Connection to Google Collaboratory and use it with browser (Not using Client). This gives you a high end VM for a maximum of 12 hours with Debian Linux as OS**
 
