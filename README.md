@@ -1,4 +1,4 @@
-# Free RDP 12 HOURS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LyQuid12/Gydeon-VM/blob/dev/Colab%20RDP/Colab%20RDP.ipynb]
+# Free RDP 12 HOURS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LyQuid12/Gydeon-VM/blob/dev/Colab%20RDP/Colab%20RDP.ipynb/]
 
 it's all free, don't worry. Watch the guide for renew the RDP 😉
 
