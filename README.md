@@ -10,9 +10,9 @@ soon!
 
 ### Specs
 ```
-> RAM: 12GB (7 Gigabyte)
+> RAM: 12GB (12 Gigabyte)
 
-> SSD: ?
+> SSD: 116 GB (116 Gigabyte)
 
 > Processor: ?
 
