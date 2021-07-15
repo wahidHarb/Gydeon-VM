@@ -1,8 +1,3 @@
-<img src="https://raw.githubusercontent.com/PradyumnaKrishna/PradyumnaKrishna/master/logo.svg" align="right" height="50" width="50"/>
-
-# Colab Hacks [![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE.md)
-Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
-
 Here is a brief about them all:
 
 
