@@ -4,6 +4,9 @@
 
 **Colab RDP is used to get Remote Connection to Google Collaboratory and use it with browser (Not using Client). This gives you a high end VM for a maximum of 12 hours with Debian Linux as OS**
 
+### ⚠️ Warning ⚠️
+**Make sure you use this repository on a second account, as it is very vulnerable to suspending your github account. I will not be responsible if your github account is suspended. Thank you for your attention :)**
+
 ### Video guide:
 
 soon!
