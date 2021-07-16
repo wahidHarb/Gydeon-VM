@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LyQuid12/Gydeon-VM/dev/Images/Debian%20Logo.png" align="right" height="150" width="150"/>
+<img src="https://raw.githubusercontent.com/LyQuid12/Gydeon-VM/dev/Images/Debian%20Logo.png" align="centre" height="150" width="150"/>
 
 # Free RDP 12 HOURS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LyQuid12/Gydeon-VM/blob/dev/Machine%20Core/Gydeon%20VM.ipynb)
 
